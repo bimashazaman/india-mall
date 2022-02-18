@@ -1,4 +1,4 @@
-<div class="page">
+{{-- <div class="page">
 
     <header tabindex="0">
 
@@ -30,6 +30,6 @@
           <li class="small"><a href="#0">Facebook</a><a href="#0">Instagram</a></li>
         </ul>
       </div>
-      <input type="text">
+
     </div>
-  </div>
+  </div> --}}
